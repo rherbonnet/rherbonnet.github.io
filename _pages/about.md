@@ -21,10 +21,16 @@ I like snowboarding, hiking
 
 Work
 ======
-I'm a postdoctoral researcher at the State University of New York at Stony Brook since September 2017.
-I work with Professor Anja von der Linden trying to estimate accurate masses of clusters of galaxies, the largest objects in the Universe. They can tell us how mass has built up over the lifetime of the Universe and can put strong constraints on the nature of dark matter, dark energy and neutrino masses.
+I'm a postdoctoral researcher at the State University of New York at Stony Brook and Brookhaven National Lab since September 2017.
+I work with Professor Anja von der Linden trying to accurately estimate weak gravitational lensing masses of clusters of galaxies, the largest objects in the Universe. Clusters can tell us how mass has built up over the lifetime of the Universe and that can put strong constraints on the nature of dark matter, dark energy and neutrino masses.
+
+
+Collaborations
+======
 
 I'm a member of the Kilo Degree Survey (KiDS) collaboration and LSST-DESC. Both are large optical surveys that are mapping or will map, respectively, millions to billions of galaxies in order to measure tiny coherent distortions in their projected shapes from which we can infer the distribution of mass in the Universe.
+
+
 
 
 Education
