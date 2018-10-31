@@ -15,8 +15,9 @@ This is an incredibly brief description of me.
 
 I was born and now I'm in New York.
 
-I like [underwaterhockey](https://www.youtube.com/results?search_query=underwaterhockey)
+I like to play [underwaterhockey](https://www.youtube.com/results?search_query=underwaterhockey)
 
+I like snowboarding, hiking
 
 Education
 ======
