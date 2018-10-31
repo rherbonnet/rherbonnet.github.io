@@ -1,10 +1,10 @@
 ---
 title: "Snowcluster"
 collection: talks
-type: "Talk"
+type: "Presentation"
 permalink: /talks/2012-03-01-talk-1
 venue: "Snowcluster conference"
-date: 2012-03-01
+date: 2018-03-18
 location: "Snowbird, Utah"
 ---
 
