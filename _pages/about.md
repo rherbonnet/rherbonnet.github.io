@@ -12,16 +12,16 @@ redirect_from:
 About me
 ======
 This is an incredibly brief description of me.
-
+I was born and now I'm in New York.
 
 Education
 ======
-Attended high school at the Stedelijk Gymnasium in Breda, the Netherlands 2000-2006
-Bachelor of Physics at the University of Leiden in the Netherlands 2006-2009
-Bachelor of Astronomy at the University of Leiden in the Netherlands 2006-2009
-Master of Astronomy at the University of Leiden in the Netherlands 2009-2012
-PhD in Astronomy at the University of Leiden in the Netherlands 2012-2017
-Postdoc in Astronomy at the State University of New York at Stony Brook, USA 2017-now
+Attended high school at the Stedelijk Gymnasium in Breda, the Netherlands 2000-2006 \\
+Bachelor of Physics at the University of Leiden in the Netherlands 2006-2009 \\
+Bachelor of Astronomy at the University of Leiden in the Netherlands 2006-2009 \\
+Master of Astronomy at the University of Leiden in the Netherlands 2009-2012 \\
+PhD in Astronomy at the University of Leiden in the Netherlands 2012-2017 \\
+Postdoc in Astronomy at the State University of New York at Stony Brook, USA 2017-now \\
 
 
 
