@@ -13,11 +13,19 @@ About me
 ======
 This is an incredibly brief description of me.
 
-I was born and now I'm in New York.
+I was born in the Netherlands and now I'm in New York.
 
 I like to play [underwaterhockey](https://www.youtube.com/results?search_query=underwaterhockey)
 
 I like snowboarding, hiking
+
+Work
+======
+I'm a postdoctoral researcher at the State University of New York at Stony Brook since September 2017.
+I work with Professor Anja von der Linden trying to estimate accurate masses of clusters of galaxies, the largest objects in the Universe. They can tell us how mass has built up over the lifetime of the Universe and can put strong constraints on the nature of dark matter, dark energy and neutrino masses.
+
+I'm a member of the Kilo Degree Survey (KiDS) collaboration and LSST-DESC. Both are large optical surveys that are mapping or will map, respectively, millions to billions of galaxies in order to measure tiny coherent distortions in their projected shapes from which we can infer the distribution of mass in the Universe.
+
 
 Education
 ======
@@ -26,7 +34,6 @@ Education
 * Bachelor of Astronomy at the University of Leiden in the Netherlands 2006-2009 
 * Master of Astronomy at the University of Leiden in the Netherlands 2009-2012 
 * PhD in Astronomy at the University of Leiden in the Netherlands 2012-2017 
-* Postdoc in Astronomy at the State University of New York at Stony Brook, USA 2017-now 
 
 
 Other
