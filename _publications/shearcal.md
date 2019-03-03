@@ -6,7 +6,9 @@ excerpt: 'This is a list of papers related to calibrating weak lensing shear.'
 date: 2019-03-03
 ---
 Here is the list of papers to which I have contributed that are related to calibrating weak lensing shear.
-<> really this is a comment?
+[comment]: <> (This is a comment, it will not be included)
+[comment]: <> (in  the output file unless you use it in)
+[comment]: <> (a reference style link.)
 
 Assessing the severity of blending with faint sources for the Euclid mission.
 [Martinet et al.](https://arxiv.org/abs/1902.00044)
