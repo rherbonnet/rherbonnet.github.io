@@ -5,7 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This is a list of papers related to calibrating weak lensing shear.'
 date: 2019-03-03
 ---
-This is a list of papers related to calibrating weak lensing shear.
+Here is the list of papers to which I have contributed that are related to calibrating weak lensing shear.
 
 Assessing the severity of blending with faint sources for the Euclid mission.
 [Martinet et al.](https://arxiv.org/abs/1902.00044)
