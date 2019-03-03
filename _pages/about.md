@@ -9,21 +9,19 @@ redirect_from:
 ---
 
 
-About me
+Incredibly brief description
 ======
-This is an incredibly brief description of me.
 
-I was born in the Netherlands and now I'm in New York.
-
-I like to play [underwaterhockey](https://www.youtube.com/results?search_query=underwaterhockey)
-
-I like snowboarding, hiking
+I was born in the Netherlands and now I'm living in Stony Brook, New York. In my free time I like to play [underwaterhockey](https://www.youtube.com/results?search_query=underwaterhockey). Whenever possible I will go into the mountains, preferably in winter to go snowboarding, but I also enjoy hiking.
 
 Work
 ======
 I'm a postdoctoral researcher at the State University of New York at Stony Brook and Brookhaven National Lab since September 2017.
-I work with Professor Anja von der Linden trying to accurately estimate weak gravitational lensing masses of clusters of galaxies, the largest objects in the Universe. Clusters can tell us how mass has built up over the lifetime of the Universe and that can put strong constraints on the nature of dark matter, dark energy and neutrino masses.
+I work with Professor Anja von der Linden trying to accurately estimate weak gravitational lensing masses of clusters of galaxies, the largest objects in the Universe. Clusters can tell us how mass has built up over the lifetime of the Universe and that can put strong constraints on the nature of dark matter, dark energy and neutrino masses. Gravitational lensing is a super cool technique to actually show the distribution of dark matter using the distorted shapes of distant galaxies caused by curvature of space time around the dark matter.
 
+Before that I was a PhD student at the Leiden Observatory in the Netherlands with Professor Henk Hoekstra and Konrad Kuijken. There I developed a shear measurement algorithm and engineered large suites of simulated telescope images with which to calibrate shear measurement algorithms. Then the calibrated shears were used to model the large scale structure in the Universe, individual massive galaxy clusters and the smaller dark matter subhaloes inside galaxy clusters.
+
+Gravitational lensing has the potential to explain the nature of dark matter. Unfortunately, the statistical and systematical limitations of weak gravitational lensing first have to be dealt with.
 
 
 Collaborations
