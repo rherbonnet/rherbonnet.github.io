@@ -27,9 +27,9 @@ Gravitational lensing has the potential to explain the nature of dark matter. Un
 Collaborations
 ======
 
-I'm a member of the Kilo Degree Survey (KiDS) collaboration and LSST-DESC. Both are large optical surveys that are mapping or will map, respectively, millions to billions of galaxies in order to measure tiny coherent distortions in their projected shapes from which we can infer the distribution of mass in the Universe.
+I'm a member of the Kilo Degree Survey (KiDS) collaboration http://kids.strw.leidenuniv.nl and LSST-DESC http://www.lsstdesc.org. Both are large optical surveys that are mapping or will map, respectively, millions to billions of galaxies in order to measure tiny coherent distortions in their projected shapes from which we can infer the distribution of mass in the Universe.
 
-I joined the Weighing the Giants group.
+As part of my postdoc I joined the Weighing the Giants collaboration, which strives the understand galaxy cluster physics and to use clusters as cosmological probes.
 
 
 Education
