@@ -8,4 +8,5 @@ date: 2018-03-18
 location: "Snowbird, Utah"
 ---
 
-This is a description of my talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+I attended the SnowCluster meeting in Snowbird, Utah. Snowcluster is a conference on the physics of galaxy clusters
+[SnowCluster](http://www.physics.utah.edu/snowcluster/)
