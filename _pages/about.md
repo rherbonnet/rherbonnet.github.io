@@ -31,7 +31,7 @@ Gravitational lensing has the potential to explain the nature of dark matter. Un
 And here's a picture of a galaxy cluster
 ![alt text](https://github.com/rherbonnet/rherbonnet.github.io/blob/master/A2259.jpg "Abell 2259")
 
-![alt text](rherbonnet.github.io/blob/master/A2390.jpg "Abell 2390")
+![alt text](master/A2390.jpg "Abell 2390")
 
 
 
