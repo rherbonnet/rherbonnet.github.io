@@ -16,6 +16,11 @@ I was born in the Netherlands and now I'm living in Stony Brook, New York. In my
 
 I'm also still updating this website.
 
+And here's a picture of a cluster
+![alt text](https://github.com/rherbonnet/rherbonnet.github.io/blob/master/A2259.jpg "Logo Title Text 1")
+
+
+
 Work
 ======
 I'm a postdoctoral researcher at the State University of New York at Stony Brook and Brookhaven National Lab since September 2017.
