@@ -18,7 +18,7 @@ I'm also still updating this website.
 
 And here's a picture of a cluster
 
-![alt text](rherbonnet.github.io/blob/master/A2259.jpg "Logo Title Text 1")
+![alt text](https://github.com/rherbonnet/rherbonnet.github.io/blob/master/A2259.jpg?raw=true "Logo Title Text 1")
 
 
 
