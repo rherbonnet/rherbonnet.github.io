@@ -8,9 +8,7 @@ date: 2018-03-18
 location: "Snowbird, Utah"
 ---
 
-I attended the SnowCluster meeting in Snowbird, Utah. Snowcluster is a conference on the physics of galaxy clusters
-[SnowCluster](http://www.physics.utah.edu/snowcluster/)
-
+I attended the SnowCluster meeting in Snowbird, Utah. [SnowCluster](http://www.physics.utah.edu/snowcluster/) is a conference on the physics of galaxy clusters in theoretical simulations and multiwavelength observations.
 I presented a talk on the progress of weak lensing masses for a sample of 100 clusters and the difficulty in obtaining accurate mass estimates with weak lensing when statistical errors are decreasing.
 
 __abstract__
