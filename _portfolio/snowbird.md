@@ -1,6 +1,6 @@
 ---
 title: "Snowbird"
-excerpt: "Optical image of a galaxy cluster <br/><img src='/images/snowbird.jpg'>"
+excerpt: "Pretty snowcapped mountains <br/><img src='/images/snowbird.jpg'>"
 collection: portfolio
 ---
 
