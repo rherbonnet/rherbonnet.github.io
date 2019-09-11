@@ -1,6 +1,6 @@
 ---
 title: "Galaxy clusters"
-excerpt: "Optical image of a galaxy cluster 1<br/><img src='/A2319.jpg'>"
+excerpt: "Optical image of a galaxy cluster <br/><img src='/A2319.jpg'>"
 collection: portfolio
 ---
 
