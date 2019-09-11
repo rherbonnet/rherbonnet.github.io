@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2014-02-01-talk-2
 venue: "Stanford University"
-date: 2014-03-07
+date: 2019-03-07
 location: "Palo Alto, California"
 ---
 
