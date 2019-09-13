@@ -20,26 +20,31 @@ Education
 
 Work experience
 ======
-* 2012-2017: PhD
-  * Leiden University
-  * Percent level shear measurements and calibration
-  * Weak lensing measurements of galaxy clusters 
-  * Supervisor: Professor Hoekstra & Kuijken
 
 * 2017-now: postdoctoral researcher
   * State University of New York at Stony Brook
   * Weak lensing measurements of galaxy clusters 
   * Photometric redshifts in cluster fields
   * Supervisor: Professor Von der Linden
+
+* 2012-2017: PhD
+  * Leiden University
+  * Percent level shear measurements and calibration
+  * Weak lensing measurements of galaxy clusters 
+  * Supervisor: Professor Hoekstra & Kuijken
+
+* 2009-2010: Treasurer in the board of directories of student society VSL Catena in Leiden
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Shell
+* Languages
+  * Dutch (native)
+  * English (fluent)
+  * French (average)
+  * Mandarin (still learning)
+  * Spanish (still learning)
 
 Publications
 ======
