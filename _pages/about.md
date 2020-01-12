@@ -12,7 +12,7 @@ redirect_from:
 Incredibly brief description
 ======
 
-I was born and grewp up in the Netherlands and since September 2017 I'm living in Stony Brook, New York. In my free time I like to play [underwaterhockey](https://www.youtube.com/results?search_query=underwaterhockey). Whenever possible I will go into the mountains, preferably in winter to go snowboarding, but I also enjoy hiking.
+I was born and grew up in the Netherlands and since September 2017 I'm living in Stony Brook, New York. In my free time I like to play [underwaterhockey](https://www.youtube.com/results?search_query=underwaterhockey). Whenever possible I will go into the mountains, preferably in winter to go snowboarding, but I also enjoy hiking.
 
 I'm also still updating this website.
 
