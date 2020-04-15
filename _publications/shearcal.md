@@ -1,7 +1,7 @@
 ---
 title: "Shear calibration"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/shearcalibration
 excerpt: 'This is a list of papers related to calibrating weak lensing shear.'
 date: 2019-03-03
 ---
