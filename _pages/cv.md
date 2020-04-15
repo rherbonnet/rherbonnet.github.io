@@ -56,8 +56,6 @@ Publications
 [//]: # (<ul>{% for post in site.publications %})
 [//]: # (   {% include archive-single-cv.html %})
 [//]: # (  {% endfor %}</ul>)
-
-WHYWHYWHWY
 * [Herbonnet et al. 2019](https://arxiv.org/abs/1912.04414)
 * [Herbonnet et al. 2019](https://arxiv.org/abs/1910.07664)
 * [Martinet et al. 2019](https://arxiv.org/abs/1902.00044)
