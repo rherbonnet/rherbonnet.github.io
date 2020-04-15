@@ -7,6 +7,11 @@ redirect_from:
   - /resume
 ---
 
+
+[//]: # (This is a comment, it will not be included)
+[//]: # (in  the output file unless you use it in)
+[//]: # (a reference style link.)
+
 {% include base_path %}
 
 Education
@@ -48,9 +53,21 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+[//]:  <ul>{% for post in site.publications %}
+[//]:    {% include archive-single-cv.html %}
+[//]:  {% endfor %}</ul>
+* [Herbonnet et al. 2019](https://arxiv.org/abs/1912.04414)
+* [Herbonnet et al. 2019](https://arxiv.org/abs/1910.07664)
+* [Martinet et al. 2019](https://arxiv.org/abs/1902.00044)
+* [Kannawadi et al. 2019](https://arxiv.org/abs/1812.03983)
+* [Hildebrandt et al. 2017](https://arxiv.org/abs/1606.05338)
+* [Fenech Conti et al. 2017](https://arxiv.org/abs/1606.05337)
+* [Hoekstra et al. 2017](https://arxiv.org/abs/1609.03281)
+* [Sifon et al. 2017](https://arxiv.org/pdf/1706.06125)
+* [Sifon et al. 2017](https://arxiv.org/pdf/1704.07847)
+* [Herbonnet et al. 2017](https://arxiv.org/abs/1607.02056)
+* [Kuijken et al. 2015](https://arxiv.org/pdf/1507.00738)
+* [Hoekstra et al. 2015](https://arxiv.org/abs/1502.01883)
   
 Talks
 ======
