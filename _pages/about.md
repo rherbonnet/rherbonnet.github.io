@@ -29,7 +29,7 @@ My PhD thesis *Unveiling dark structures with accurate weak lensing* is availabl
 Gravitational lensing has the potential to explain the nature of dark matter. Unfortunately, the statistical and systematical limitations of weak gravitational lensing first have to be dealt with.
 
 
-And here's a picture of a galaxy cluster
+And here's a picture of a galaxy cluster because I think they're awesome
 ![alt text](https://github.com/rherbonnet/rherbonnet.github.io/blob/master/A2259.jpg?raw=true "Abell 2259")
 
 
