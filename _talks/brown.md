@@ -18,4 +18,4 @@ A cosmological model with dark matter and dark energy is currently favoured, but
 A promising tool to study these components in more detail is the measuring of the growth of galaxy clusters through cosmic time. For these cluster cosmology studies accurate mass measurements of the total mass of clusters are the main limitation. Weak gravitational lensing measurements can provide mass estimates, but sources of systematic uncertainty have to be controlled to percent level in order to tighten cosmological constraints. 
 I will review how galaxy clusters can be cosmological probes and discuss the challenges for gravitational lensing measurements of galaxy clusters and some of the latest results.
 
-[PDF of the presentation](bla)
+
