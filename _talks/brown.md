@@ -4,7 +4,7 @@ collection: talks
 type: "Presentation"
 permalink: /talks/brown
 venue: "Zoom conference"
-date: 2018-04-21
+date: 2020-04-21
 location: "Brown University"
 ---
 
